@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ajudeentregar.com/</loc>
-  </url>
+  <url><loc>https://ajudeentregar.com/</loc></url>
+  <url><loc>https://ajudeentregar.com/imile-pedido-atrasado.html</loc></url>
+  <url><loc>https://ajudeentregar.com/imile-entregue-nao-recebi.html</loc></url>
+  <url><loc>https://ajudeentregar.com/imile-rastreio-nao-atualiza.html</loc></url>
+  <url><loc>https://ajudeentregar.com/contato-imile.html</loc></url>
 </urlset>
