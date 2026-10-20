@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/atendimento-imile",
+      "destination": "/site02.html"
+    }
+  ]
+}
